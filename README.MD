@@ -10,6 +10,9 @@ desde 2013 hasta 2022. El proyecto realiza un análisis de la dimensionalidad
 de los datos y aplica una simulación de Monte Carlo para proyectar la población 
 futura en períodos de dos años hasta 2030.
 
+
+## DATASET: https://www.kaggle.com/datasets/madhurpant/europe-population-data
+
 ### Estructura del Proyecto
 
 - **preprocesamiento.py**: Contiene funciones para cargar, limpiar y guardar 
